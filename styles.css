@@ -9,11 +9,16 @@ a {
 }
 
 .card {
+  display: flex;
   background-color: hsl(244, 38%, 16%);
   font-size: 0.9375rem;
   width: 80%;
   margin: 20% auto;
   border-radius: 10px;
+}
+
+.card-left .card-right {
+
 }
 
 
