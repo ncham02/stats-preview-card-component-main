@@ -17,8 +17,19 @@ a {
   border-radius: 10px;
 }
 
-.card-left .card-right {
+.card-left{
+flex:1;
+}
 
+.card-right {
+  flex:1;
+}
+
+.card-right img{
+  display: block;
+  width: 100%;
+  border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
 }
 
 
