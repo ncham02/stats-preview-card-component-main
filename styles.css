@@ -46,6 +46,7 @@ padding: 5% 5% 0 5%;
 .stats {
   display: flex;
   margin: auto;
+  padding-bottom: 50px;
 }
 
 .stats .stats-left,.stats-mid,.stats-right {
